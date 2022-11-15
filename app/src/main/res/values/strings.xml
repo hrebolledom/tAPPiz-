@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">tAPPiz!</string>
+    <string name="content_desc_plant_image">plant image</string>
+    <string name="splash_textview">tAPPiz!</string>
+    <string name="content_login_password">Password</string>
+    <string name="content_login">Login</string>
+    <string name="content_login_registrate">Registrate</string>
+    <string name="content_login_email">Email</string>
+    <string name="content_login_icon_image">icon image</string>
+    <string name="content_princ_plant_principal">Plant Principal</string>
+    <string name="content_princ_spinner_principal">Spinner Principal</string>
+    <string-array name="Box_Menu">
+        <item>Fondo de Pantalla</item>
+        <item>Temas</item>
+        <item>Iconos</item>
+        <item>Tono de Llamada</item>
+    </string-array>
+
+</resources>
