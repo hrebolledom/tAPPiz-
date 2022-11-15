@@ -18,4 +18,9 @@ public class Login_Activity extends AppCompatActivity {
         Intent Login = new Intent(this, Principal_Activity.class);
         startActivity(Login);
     }
+
+    public void ubicacion (View view){
+        Intent ubicacion = new Intent(this, MapsActivity.class);
+        startActivity(ubicacion);
+    }
 }

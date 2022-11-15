@@ -15,5 +15,6 @@
         <item>Iconos</item>
         <item>Tono de Llamada</item>
     </string-array>
+    <string name="title_activity_maps">MapsActivity</string>
 
 </resources>
