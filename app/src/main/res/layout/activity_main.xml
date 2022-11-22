@@ -9,6 +9,8 @@
         android:id="@+id/imageView"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
+        android:background="@drawable/fondo_blanco"
+        android:backgroundTint="#F6F4F4"
         android:contentDescription="@string/content_desc_plant_image"
         android:src="@drawable/plant" />
 
