@@ -48,10 +48,16 @@
         android:hint="Crear Password" />
 
     <Button
-        android:id="@+id/btnRegistroAct"
-        android:layout_width="match_parent"
+        android:id="@+id/btnRegistrar"
+        android:layout_width="379dp"
         android:layout_height="wrap_content"
-        android:text="Confirmar Registro"/>
+        android:text="Registrar" />
+
+    <Button
+        android:id="@+id/btnverRegistro"
+        android:layout_width="381dp"
+        android:layout_height="wrap_content"
+        android:text="Ver Registro" />
 
     <ImageView
         android:id="@+id/imageView_Registro"
