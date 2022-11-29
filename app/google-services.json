@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "371739930703",
+    "project_id": "tappiz",
+    "storage_bucket": "tappiz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371739930703:android:a4572a7401f93e5a0efa3a",
+        "android_client_info": {
+          "package_name": "com.example.tappiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371739930703-6ofcojbh22fp6tqrf4j9n5q20otbfl5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPiVztk5lcCMCLlp5HdJ6rlC6msWO76bo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371739930703-6ofcojbh22fp6tqrf4j9n5q20otbfl5d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
